@@ -1,0 +1,11 @@
+{
+  "dataset_name": "flores_plus_hun_eng_devtest",
+  "evaluated_model": "base_model",
+  "judge_model": "gpt-5.2",
+  "processed_items": 1000,
+  "average_scores": {
+    "content_accuracy": 0.6334399999999993,
+    "grammatical_correctness": 0.6042699999999996,
+    "fluency": 0.5580999999999987
+  }
+}

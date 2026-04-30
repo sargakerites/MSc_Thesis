@@ -1,0 +1,42 @@
+{
+  "flores_plus_hun_eng_devtest": {
+    "base_model": {
+      "judge_model": "gpt-5.2",
+      "num_items": 1000,
+      "average_scores": {
+        "content_accuracy": 0.6334399999999993,
+        "grammatical_correctness": 0.6042699999999996,
+        "fluency": 0.5580999999999987
+      }
+    },
+    "fine_tuned_model": {
+      "judge_model": "gpt-5.2",
+      "num_items": 1000,
+      "average_scores": {
+        "content_accuracy": 0.7811700000000023,
+        "grammatical_correctness": 0.8019899999999992,
+        "fluency": 0.7588500000000001
+      }
+    }
+  },
+  "training_test_split": {
+    "base_model": {
+      "judge_model": "gpt-5.2",
+      "num_items": 1000,
+      "average_scores": {
+        "content_accuracy": 0.7858000000000024,
+        "grammatical_correctness": 0.8054300000000006,
+        "fluency": 0.7738600000000004
+      }
+    },
+    "fine_tuned_model": {
+      "judge_model": "gpt-5.2",
+      "num_items": 1000,
+      "average_scores": {
+        "content_accuracy": 0.8364300000000022,
+        "grammatical_correctness": 0.8511300000000012,
+        "fluency": 0.8269100000000005
+      }
+    }
+  }
+}

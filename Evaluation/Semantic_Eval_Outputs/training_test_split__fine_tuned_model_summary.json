@@ -1,0 +1,11 @@
+{
+  "dataset_name": "training_test_split",
+  "evaluated_model": "fine_tuned_model",
+  "judge_model": "gpt-5.2",
+  "processed_items": 1000,
+  "average_scores": {
+    "content_accuracy": 0.8364300000000022,
+    "grammatical_correctness": 0.8511300000000012,
+    "fluency": 0.8269100000000005
+  }
+}

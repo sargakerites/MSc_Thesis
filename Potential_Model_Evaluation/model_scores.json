@@ -1,0 +1,33 @@
+{
+    "Qwen/Qwen3-Next-80B-A3B-Instruct": {
+        "content_accuracy": -0.15,
+        "grammatical_correctness": 0.875,
+        "fluency": 0.7
+    },
+    "meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo": {
+        "content_accuracy": -0.07801418439716312,
+        "grammatical_correctness": 0.8297872340425532,
+        "fluency": 0.6666666666666666
+    },
+    "Qwen/Qwen3-235B-A22B-Instruct-2507-tput": {
+        "content_accuracy": -0.175,
+        "grammatical_correctness": 0.8,
+        "fluency": 0.575
+    },
+    "zai-org/GLM-4.5-Air-FP8": {
+        "content_accuracy": 0.0,
+        "grammatical_correctness": 0.8205128205128205,
+        "fluency": 0.6153846153846154
+    },
+    "nvidia/NVIDIA-Nemotron-Nano-9B-v2": {
+        "content_accuracy": -0.9,
+        "grammatical_correctness": 0.25,
+        "fluency": -0.15
+    },
+    "google/gemma-3-27b-it": {
+        "content_accuracy": 0.028,
+        "grammatical_correctness": 0.87,
+        "fluency": 0.753
+    }
+}
+
